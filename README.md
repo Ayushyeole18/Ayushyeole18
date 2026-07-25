@@ -56,7 +56,7 @@ open_to:
 
 **Languages**
 <br/>
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://img.shields.io/badge/SQL-00796B?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 <br/>
@@ -64,7 +64,7 @@ open_to:
 
 **ML / Data Libraries**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-1a1a1a?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-1a1a1a?style=for-the-badge&logo=openaigym&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-00796B?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-00695C?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-004D40?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-00796B?style=for-the-badge&logo=plotly&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-00695C?style=for-the-badge&logo=openaigym&logoColor=white)
 
 **Developer Tooling**
 <br/>
@@ -185,7 +185,7 @@ A structured collection of daily coding practice and Data Structures & Algorithm
 <div align="center">
 
 <a href="https://leetcode.com/u/Ayushyeole_18/">
-<img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-000000?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 
 </div>
@@ -227,10 +227,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Gmail-yeoleayush7%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-ayush--yeole-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Ayushyeole18-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Ayushyeole_18/"><img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Gmail-yeoleayush7%40gmail.com-00796B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-ayush--yeole-00695C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Ayushyeole18-004D40?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Ayushyeole_18/"><img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
