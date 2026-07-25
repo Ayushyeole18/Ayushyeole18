@@ -33,7 +33,26 @@
 
 ## About Me
 
-Hey, I'm Ayush — a final-year CSE student who likes taking messy, real-world problems (market data, pricing decisions, exam logistics) and turning them into working systems. I spend most of my time somewhere between backend engineering and applied ML, and I'm just as happy debugging a multi-threaded scheduler at 2 AM as I am tuning a reinforcement learning agent. Currently chasing SDE internships/roles while continuing to ship side projects and dig deeper into ML engineering.
+<table>
+<tr>
+<td valign="top" width="60%">
+
+🔭 Currently building full-stack apps and ML systems — market scanners, RL pricing agents, and more.
+
+🌱 Learning advanced reinforcement learning, system design, and cloud fundamentals.
+
+💬 Ask me about algorithmic trading, operating systems, or computer networks.
+
+⚡ Interests: AI/ML, deep learning, data-driven engineering, full-stack development.
+
+✨ Currently open to SDE internships and roles.
+
+</td>
+<td valign="top" width="40%">
+<img src="about_me.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ```yaml
 name: "Ayush Yeole"
