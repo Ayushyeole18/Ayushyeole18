@@ -39,7 +39,7 @@
 
 🔭 Currently building full-stack apps and ML systems — market scanners, RL pricing agents, and more.
 
-🌱 Learning advanced reinforcement learning, system design, and cloud fundamentals.
+🌱 Learning advanced machine learning, system design, and algorithms.
 
 💬 Ask me about algorithmic trading, operating systems, or computer networks.
 
