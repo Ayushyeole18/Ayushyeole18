@@ -10,16 +10,16 @@
 
 <br/>
 
-![Education](https://img.shields.io/badge/CGPA-8.78%2F10-000000?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Degree](https://img.shields.io/badge/BTech-CSE%20(AIML%20Minor)-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Nagpur,%20India-333333?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/CGPA-8.78%2F10-00796B?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Degree](https://img.shields.io/badge/BTech-CSE%20(AIML%20Minor)-00695C?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nagpur,%20India-004D40?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Follow-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Ayushyeole_18/"><img src="https://img.shields.io/badge/LeetCode-Solve-000000?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00796B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00695C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-004D40?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Follow-00796B?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
