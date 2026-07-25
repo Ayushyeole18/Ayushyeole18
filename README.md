@@ -1,10 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=220&section=header&text=Ayush%20Yeole&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Final-Year%20CSE%20Student%20%7C%20Full%20Stack%20and%20ML%20Enthusiast&descAlignY=55&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=CCCCCC&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+and+Engineering+Student;Building+ML+Agents+and+Full+Stack+Apps;Every+commit+tells+a+story+of+progress" alt="Typing SVG" />
-</a>
+<img src="banner_photo.png" width="100%"/>
 
 <br/>
 
