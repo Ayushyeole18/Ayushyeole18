@@ -4,6 +4,12 @@
 
 <br/>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+and+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Beginning+the+Journey+as+Software+Engineer" alt="Typing SVG" />
+</a>
+
+<br/>
+
 ![Education](https://img.shields.io/badge/CGPA-8.78%2F10-000000?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Degree](https://img.shields.io/badge/BTech-CSE%20(AIML%20Minor)-1a1a1a?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Nagpur,%20India-333333?style=for-the-badge&logo=googlemaps&logoColor=white)
