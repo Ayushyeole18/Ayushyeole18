@@ -39,7 +39,7 @@
 
 🔭 Currently building full-stack apps and ML systems — market scanners, RL pricing agents, and more.
 
-🌱 Learning advanced machine learning, system design, and algorithms.
+🌱 Learning advanced reinforcement learning, system design, and cloud fundamentals.
 
 💬 Ask me about algorithmic trading, operating systems, or computer networks.
 
@@ -81,13 +81,17 @@ open_to:
 <br/>
 ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
+**Databases & Backend**
+<br/>
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![Supabase](https://skillicons.dev/icons?i=supabase) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
 **ML / Data Libraries**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-00796B?style=for-the-badge&logo=pytorch&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-00695C?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-004D40?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-00796B?style=for-the-badge&logo=plotly&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-00695C?style=for-the-badge&logo=openaigym&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://img.shields.io/badge/Pandas-00695C?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-004D40?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-00796B?style=for-the-badge&logo=plotly&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-00695C?style=for-the-badge&logo=openaigym&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-8B0000?style=for-the-badge&logoColor=white)
 
 **Developer Tooling**
 <br/>
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![GCP](https://skillicons.dev/icons?i=gcp) ![Linux](https://skillicons.dev/icons?i=linux)
+![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![VSCode](https://skillicons.dev/icons?i=vscode) ![PyCharm](https://skillicons.dev/icons?i=pycharm) ![IntelliJ](https://skillicons.dev/icons?i=idea) ![Eclipse](https://skillicons.dev/icons?i=eclipse) ![GCP](https://skillicons.dev/icons?i=gcp) ![Linux](https://skillicons.dev/icons?i=linux)
 
 <br/>
 
