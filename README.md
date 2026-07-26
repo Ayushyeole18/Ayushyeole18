@@ -267,7 +267,7 @@ Intelligent real-time currency conversion and analytics platform.
 <img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyeole-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -278,10 +278,26 @@ Intelligent real-time currency conversion and analytics platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushyeole18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=cccccc&text_color=c9d1d9" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushyeole18&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=cccccc&currStreakLabel=ffffff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushyeole18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=00796B&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Ayushyeole18&theme=dark&hide_border=true&background=0d1117&ring=00796B&fire=00796B&currStreakLabel=ffffff" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushyeole18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ayushyeole18&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushyeole18&theme=github-compact&hide_border=true&bg_color=0d1117&color=00796B&line=00796B&point=ffffff" width="95%" />
 
 </div>
 
