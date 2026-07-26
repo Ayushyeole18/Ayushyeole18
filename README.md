@@ -193,6 +193,8 @@ Intelligent real-time currency conversion and analytics platform.
 
 - Architected a console-based Online Examination System in Java with secure authentication, live timer, and auto-submit — reducing manual invigilation effort
 - Engineered an ATM Interface using OOP principles (encapsulation, inheritance) to process secure financial transactions with full input validation
+- Applied core Java and OOP concepts to design structured, maintainable console applications
+- Delivered both projects within deadlines while strengthening debugging and problem-solving skills
 
 `Java` `OOP` `CLI Development` `Debugging`
 
@@ -206,8 +208,10 @@ Intelligent real-time currency conversion and analytics platform.
 
 - Performed K-means clustering on 10,000+ e-commerce records, identifying 4 customer cohorts to enable targeted marketing strategies
 - Delivered a sentiment analysis pipeline using NLP and ML models (Naive Bayes, SVM) achieving 85% accuracy
+- Engineered a data preprocessing pipeline using Pandas and NumPy to clean, deduplicate, and validate large datasets before analysis
+- Visualized statistical distributions and feature correlations using Matplotlib and Seaborn to support data-driven decisions
 
-`Python` `Machine Learning` `NLP` `Clustering`
+`Python` `Machine Learning` `NLP` `Clustering` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
 </details>
 
