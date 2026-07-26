@@ -95,6 +95,24 @@ open_to:
 
 <br/>
 
+## AI / ML Expertise
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Reinforcement Learning | Applied (Project) | DDQN & Multi-Objective RL pricing agent with SHAP-based explainability (PriceNet) |
+| Algorithmic Trading & Technical Analysis | Applied (Project) | Bollinger Band breakout detection across 180+ NSE F&O stocks with automated alerting |
+| Exploratory Data Analysis | Applied (Internship) | Statistical distributions, clustering & KPI visualization using Pandas, Matplotlib |
+| NLP & Sentiment Analysis | Applied (Internship & Project) | Naive Bayes/SVM sentiment pipeline (85% accuracy) and news-sentiment engine for market context |
+| Anomaly Detection | Applied (Project) | Localized Z-score engine to flag irregular transactions and potential fraud |
+| Time-Series Analysis | Applied (Internship) | Seasonal decomposition & trend isolation using Statsmodels for monthly cycles |
+| AI/ML Foundations | Academic (Minor) | Pursuing Minor specialization in AI/ML alongside core CSE curriculum |
+
+</div>
+
+<br/>
+
 ## Featured Projects
 
 <details open>
