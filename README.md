@@ -224,6 +224,9 @@ Intelligent real-time currency conversion and analytics platform.
 <a href="https://leetcode.com/u/Ayushyeole_18/">
 <img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
+<a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+</a>
 
 </div>
 
