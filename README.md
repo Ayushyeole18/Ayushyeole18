@@ -217,6 +217,48 @@ Intelligent real-time currency conversion and analytics platform.
 
 <br/>
 
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🧩 LeetCode | Solved 150+ problems |
+| 🧩 GeeksforGeeks | Solved 100+ problems |
+| 🎓 Departmental Academics | Secured a position among the Top 10 students |
+
+</div>
+
+<br/>
+
+## Certifications
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-00796B?style=flat-square&logo=googlescholar&logoColor=white)
+&nbsp;`IIT Madras` · `Elite` · `87%` · Jan–Apr 2025
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20English%20for%20Engineers-00695C?style=flat-square&logo=googlescholar&logoColor=white)
+&nbsp;`IIT Madras` · `Elite (Top 5%)` · `81%` · Aug–Oct 2024
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Soft%20Skill%20Development-004D40?style=flat-square&logo=googlescholar&logoColor=white)
+&nbsp;`IIT Kharagpur` · `Elite` · `68%` · Jan–Mar 2024
+
+**Infosys Springboard**
+
+![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Database%20and%20SQL-00796B?style=flat-square&logo=infosys&logoColor=white)
+&nbsp;Course Completion Certificate · April 2025
+
+**Udemy**
+
+![Udemy](https://img.shields.io/badge/Udemy-Java%20Best%20Practices%20for%20Efficient%2C%20Scalable%2C%20and%20Secure%20Code-00695C?style=flat-square&logo=udemy&logoColor=white)
+&nbsp;`Andrii Piatakha` · `73.5 hours` · Nov 2025
+
+![Udemy](https://img.shields.io/badge/Udemy-C%20Programming%20Bootcamp-004D40?style=flat-square&logo=udemy&logoColor=white)
+&nbsp;`Vlad Budnitski` · `44 hours` · Mar 2025
+
+<br/>
+
 ## Coding Profiles
 
 <div align="center">
@@ -225,7 +267,7 @@ Intelligent real-time currency conversion and analytics platform.
 <img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyeole-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
