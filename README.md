@@ -5,21 +5,21 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00796B&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+and+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Beginning+the+Journey+as+Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7D5042&center=true&vCenter=true&width=650&height=50&lines=Computer+Science+and+Engineering+Student;AI%2FML+Minor+%7C+Full+Stack+Developer;Beginning+the+Journey+as+Software+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/CGPA-8.78%2F10-00796B?style=for-the-badge&logo=googlescholar&logoColor=white)
-![Degree](https://img.shields.io/badge/BTech-CSE%20(AIML%20Minor)-00695C?style=for-the-badge&logo=readthedocs&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Nagpur,%20India-004D40?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/CGPA-8.78%2F10-7D5042?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Degree](https://img.shields.io/badge/BTech-CSE%20(AIML%20Minor)-53363C?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Nagpur,%20India-2B1C37?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/>
 
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-00796B?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00695C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-004D40?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Follow-00796B?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7D5042?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-53363C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-2B1C37?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Follow-7D5042?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -75,7 +75,7 @@ open_to:
 
 **Languages**
 <br/>
-![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://img.shields.io/badge/SQL-00796B?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python) ![C](https://skillicons.dev/icons?i=c) ![SQL](https://img.shields.io/badge/SQL-7D5042?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frontend**
 <br/>
@@ -87,7 +87,7 @@ open_to:
 
 **ML / Data Libraries**
 <br/>
-![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://img.shields.io/badge/Pandas-00695C?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-004D40?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-00796B?style=for-the-badge&logo=plotly&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-00695C?style=for-the-badge&logo=openaigym&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-8B0000?style=for-the-badge&logoColor=white)
+![PyTorch](https://skillicons.dev/icons?i=pytorch) ![Pandas](https://img.shields.io/badge/Pandas-53363C?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-2B1C37?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-7D5042?style=for-the-badge&logo=plotly&logoColor=white) ![Gymnasium](https://img.shields.io/badge/Gymnasium-53363C?style=for-the-badge&logo=openaigym&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logoColor=white) ![Statsmodels](https://img.shields.io/badge/Statsmodels-8B0000?style=for-the-badge&logoColor=white)
 
 **Developer Tooling**
 <br/>
@@ -235,26 +235,26 @@ Intelligent real-time currency conversion and analytics platform.
 
 **NPTEL**
 
-![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-00796B?style=flat-square&logo=googlescholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-English%20Language%20for%20Competitive%20Exams-7D5042?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;`IIT Madras` · `Elite` · `87%` · Jan–Apr 2025
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20English%20for%20Engineers-00695C?style=flat-square&logo=googlescholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Technical%20English%20for%20Engineers-53363C?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;`IIT Madras` · `Elite (Top 5%)` · `81%` · Aug–Oct 2024
 
-![NPTEL](https://img.shields.io/badge/NPTEL-Soft%20Skill%20Development-004D40?style=flat-square&logo=googlescholar&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-Soft%20Skill%20Development-2B1C37?style=flat-square&logo=googlescholar&logoColor=white)
 &nbsp;`IIT Kharagpur` · `Elite` · `68%` · Jan–Mar 2024
 
 **Infosys Springboard**
 
-![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Database%20and%20SQL-00796B?style=flat-square&logo=infosys&logoColor=white)
+![Infosys](https://img.shields.io/badge/Infosys%20Springboard-Database%20and%20SQL-7D5042?style=flat-square&logo=infosys&logoColor=white)
 &nbsp;Course Completion Certificate · April 2025
 
 **Udemy**
 
-![Udemy](https://img.shields.io/badge/Udemy-Java%20Best%20Practices%20for%20Efficient%2C%20Scalable%2C%20and%20Secure%20Code-00695C?style=flat-square&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-Java%20Best%20Practices%20for%20Efficient%2C%20Scalable%2C%20and%20Secure%20Code-53363C?style=flat-square&logo=udemy&logoColor=white)
 &nbsp;`Andrii Piatakha` · `73.5 hours` · Nov 2025
 
-![Udemy](https://img.shields.io/badge/Udemy-C%20Programming%20Bootcamp-004D40?style=flat-square&logo=udemy&logoColor=white)
+![Udemy](https://img.shields.io/badge/Udemy-C%20Programming%20Bootcamp-2B1C37?style=flat-square&logo=udemy&logoColor=white)
 &nbsp;`Vlad Budnitski` · `44 hours` · Mar 2025
 
 <br/>
@@ -264,10 +264,10 @@ Intelligent real-time currency conversion and analytics platform.
 <div align="center">
 
 <a href="https://leetcode.com/u/Ayushyeole_18/">
-<img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-7D5042?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-53363C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -278,8 +278,8 @@ Intelligent real-time currency conversion and analytics platform.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ayushyeole18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=00796B&text_color=c9d1d9" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Ayushyeole18&theme=dark&hide_border=true&background=0d1117&ring=00796B&fire=00796B&currStreakLabel=ffffff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ayushyeole18&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=7D5042&text_color=c9d1d9" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Ayushyeole18&theme=dark&hide_border=true&background=0d1117&ring=7D5042&fire=7D5042&currStreakLabel=ffffff" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushyeole18&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%" />
 
@@ -289,7 +289,7 @@ Intelligent real-time currency conversion and analytics platform.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushyeole18&theme=github-compact&hide_border=true&bg_color=0d1117&color=00796B&line=00796B&point=ffffff" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushyeole18&theme=github-compact&hide_border=true&bg_color=0d1117&color=7D5042&line=7D5042&point=ffffff" width="95%" />
 
 </div>
 
@@ -337,10 +337,10 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Gmail-yeoleayush7%40gmail.com-00796B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-ayush--yeole-00695C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Ayushyeole18-004D40?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/Ayushyeole_18/"><img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="mailto:yeoleayush7@gmail.com"><img src="https://img.shields.io/badge/Gmail-yeoleayush7%40gmail.com-7D5042?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ayush-yeole-653939288/"><img src="https://img.shields.io/badge/LinkedIn-ayush--yeole-53363C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Ayushyeole18"><img src="https://img.shields.io/badge/GitHub-Ayushyeole18-2B1C37?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://leetcode.com/u/Ayushyeole_18/"><img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-7D5042?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 
 </div>
 
