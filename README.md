@@ -303,6 +303,18 @@ Intelligent real-time currency conversion and analytics platform.
 
 <br/>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-day.svg" />
+  <img src="profile-3d-contrib/profile-night.svg" width="95%" />
+</picture>
+
+</div>
+
+<br/>
+
 ## Current Focus
 
 ```yaml
