@@ -267,7 +267,7 @@ Intelligent real-time currency conversion and analytics platform.
 <img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyeole-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -289,14 +289,6 @@ Intelligent real-time currency conversion and analytics platform.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayushyeole18&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayushyeole18&theme=github-compact&hide_border=true&bg_color=0d1117&color=00796B&line=00796B&point=ffffff" width="95%" />
 
 </div>
@@ -310,6 +302,14 @@ Intelligent real-time currency conversion and analytics platform.
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg" />
   <img src="profile-3d-contrib/profile-night-view.svg" width="95%" />
 </picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="jet-strike/contribution-jet.svg" width="95%" />
 
 </div>
 
