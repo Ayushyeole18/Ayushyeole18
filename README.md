@@ -267,7 +267,7 @@ Intelligent real-time currency conversion and analytics platform.
 <img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-00796B?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyeole-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-00695C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
@@ -348,8 +348,8 @@ open_to:
 
 <div align="center">
 
-*"Every commit tells a story of progress."*
+*"Built with curiosity, shipped with intent."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E1B47,100:C97A5C&height=120&section=footer" width="100%"/>
 
 </div>
