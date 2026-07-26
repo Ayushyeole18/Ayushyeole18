@@ -306,9 +306,9 @@ Intelligent real-time currency conversion and analytics platform.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-day.svg" />
-  <img src="profile-3d-contrib/profile-night.svg" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg" />
+  <img src="profile-3d-contrib/profile-night-view.svg" width="95%" />
 </picture>
 
 </div>
