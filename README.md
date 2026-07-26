@@ -150,16 +150,21 @@ DDQN-based reinforcement learning agent that optimizes real-time e-commerce pric
 </details>
 
 <details>
-<summary><b>FinGuru</b> — Personal Finance Platform</summary>
+<summary><b>FinGuru</b> — Personal Finance Platform — Jan 2026 – May 2026</summary>
 <br/>
 
-AI-driven personal finance management platform that simulates the RBI Account Aggregator framework to securely process and analyze large-scale transaction data.
+AI-driven personal finance management platform simulating the RBI Account Aggregator framework to securely process and analyze large-scale transaction data.
 
 | | |
 |---|---|
-| **Stack** | Python |
-| **Impact** | Real-time anomaly detection engine to flag irregular spends & potential fraud |
+| **Stack** | Python · PostgreSQL · Supabase · Streamlit · Google Gemini · GitHub Actions |
+| **Scale** | Processes 5M+ transaction records |
+| **Performance** | O(1) deterministic hashing to eliminate duplicate transactions during sync |
+| **Security** | Symmetric encryption + 24/7 automated CI/CD security audits & email alerts |
+| **Impact** | Real-time anomaly detection engine flags irregular spends & potential fraud |
 | **Repository** | [FinGuru](https://github.com/Ayushyeole18/FinGuru) |
+
+Built a real-time statistical anomaly detection engine using localized Z-scores and temporal bounding, integrated multi-modal LLM OCR to parse unstructured bank statements into a standardized schema, and deployed serverless pipelines for continuous data integrity.
 
 </details>
 
@@ -173,19 +178,6 @@ Intelligent real-time currency conversion and analytics platform.
 |---|---|
 | **Stack** | HTML |
 | **Repository** | [Forexpro](https://github.com/Ayushyeole18/Forexpro) |
-
-</details>
-
-<details>
-<summary><b>CRT</b> — DSA Practice Repository</summary>
-<br/>
-
-A structured collection of daily coding practice and Data Structures & Algorithms solutions, built during Campus Recruitment Training.
-
-| | |
-|---|---|
-| **Stack** | Java |
-| **Repository** | [CRT](https://github.com/Ayushyeole18/CRT) |
 
 </details>
 
