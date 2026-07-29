@@ -223,11 +223,11 @@ Intelligent real-time currency conversion and analytics platform.
 
 | Recognition | Details |
 |---|---|
+| 📝 GATE | Qualified GATE CSE |
 | 🧩 LeetCode | Solved 150+ problems |
 | 🧩 GeeksforGeeks | Solved 100+ problems |
 | 🎓 Departmental Academics | Secured a position among the Top 10 students |
 | 🏆 Campus to Corporate Program | Awarded Best Performer by YCCE's Training & Placement Cell |
-| 📝 GATE | Qualified GATE CSE |
 
 </div>
 
