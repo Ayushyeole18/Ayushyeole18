@@ -226,6 +226,8 @@ Intelligent real-time currency conversion and analytics platform.
 | 🧩 LeetCode | Solved 150+ problems |
 | 🧩 GeeksforGeeks | Solved 100+ problems |
 | 🎓 Departmental Academics | Secured a position among the Top 10 students |
+| 🏆 Campus to Corporate Program | Awarded Best Performer by YCCE's Training & Placement Cell |
+| 📝 GATE | Qualified GATE CSE |
 
 </div>
 
@@ -257,6 +259,11 @@ Intelligent real-time currency conversion and analytics platform.
 ![Udemy](https://img.shields.io/badge/Udemy-C%20Programming%20Bootcamp-2B1C37?style=flat-square&logo=udemy&logoColor=white)
 &nbsp;`Vlad Budnitski` · `44 hours` · Mar 2025
 
+**Yeshwantrao Chavan College of Engineering**
+
+![YCCE](https://img.shields.io/badge/Certificate%20of%20Appreciation-Best%20Performer-7D5042?style=flat-square&logo=googlescholar&logoColor=white)
+&nbsp;Campus to Corporate Program · Dept. of CSE & AI/ML, Training & Placement Cell · 5–10 Jan 2026
+
 <br/>
 
 ## Coding Profiles
@@ -267,7 +274,7 @@ Intelligent real-time currency conversion and analytics platform.
 <img src="https://img.shields.io/badge/LeetCode-Ayushyeole__18-7D5042?style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/ayushyepqwp?tab=activity">
-<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyeole-53363C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-ayushyepqwp-53363C?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
 </a>
 
 </div>
